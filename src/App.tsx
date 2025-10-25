@@ -152,7 +152,7 @@ flex items-center justify-center border-4 border-[#a0a0a0] shadow-2xl shadow-[#a
                   <img
                     src='/icon-salon.png'
                     alt='SalonSync Logo'
-                    className='w-full h-full p-8'
+                    className='w-full h-full object-contain p-6'
                   />
                 </div>
               </motion.div>
@@ -174,7 +174,7 @@ flex items-center justify-center border-4 border-[#a0a0a0] shadow-2xl shadow-[#a
               <p className='text-[#e5e5e5] text-sm sm:text-base mb-1 sm:mb-2'>
                 Dashboard Administrativo
               </p>
-              <p className='text-[#727271] text-xs sm:text-sm lg:text-base leading-relaxed px-2 sm:px-4'>
+              <p className='text-gray-300 text-xs sm:text-sm lg:text-base leading-relaxed px-2 sm:px-4'>
                 Gestão completa para salões e barbearias modernas
               </p>
             </motion.div>
